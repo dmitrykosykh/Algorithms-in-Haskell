@@ -1,1 +1,1 @@
-# Algorithms-in-Haskell
+# Algorithms in Haskell
